@@ -14,3 +14,8 @@ A modern and clean newsletter subscription component with a success state and co
 - CSS3
 - JavaScript
 
+## 📂 Project Structure
+┣ 📄 index.html
+┣ 📄 style.css
+┣ 📄 script.js
+
