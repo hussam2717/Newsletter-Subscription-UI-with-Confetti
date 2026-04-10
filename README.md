@@ -8,3 +8,9 @@ A modern and clean newsletter subscription component with a success state and co
 - 🌙 Dark UI design
 - 💡 Smooth transitions & clean layout
 - 📱 Responsive design
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+
