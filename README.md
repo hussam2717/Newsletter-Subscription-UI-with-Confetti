@@ -1,7 +1,7 @@
 # 🎉 Newsletter Subscription UI with Confetti
 A modern and clean newsletter subscription component with a success state and confetti animation built using HTML, CSS, and JavaScript.
 
-## Live Demo - 
+## Live Demo - https://hussam2717.github.io/Newsletter-Subscription-UI-with-Confetti/
 
 ## 🚀 Features
 - 📩 Email subscription form
